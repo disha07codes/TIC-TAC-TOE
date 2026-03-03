@@ -1,8 +1,8 @@
-# 💅 Ultimate Drama Tic Tac Toe
+# Ultimate Drama Tic Tac Toe
 
 A fun and interactive Tic Tac Toe web game with smart logic and cute UI.
 
-## ✨ Features
+##  Features
 - Smart AI that blocks winning moves
 - Multiplayer mode toggle
 - Score tracking
@@ -10,19 +10,19 @@ A fun and interactive Tic Tac Toe web game with smart logic and cute UI.
 - Cute popup animation
 - Clean pastel UI
 
-## 🛠 Built With
+##  Built With
 - HTML
 - CSS
 - Vanilla JavaScript
 
-## 🎮 Game Modes
+##  Game Modes
 - Player vs AI
 - Multiplayer (Player vs Player)
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Minimax AI (Impossible mode)
 - Dark mode toggle
 - Mobile responsiveness
 - Sound effects
 
-Made with ✨ drama ✨ and logic.
+Made with  drama  and logic.
